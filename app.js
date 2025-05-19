@@ -14,4 +14,4 @@ var fNumber = +prompt("Enter the first number to divide:")
 var sNumber = +prompt("Enter the second number to divide:")
 alert(fNumber / sNumber)
 
-alert("Thanks")
+alert("Thanks :)")
